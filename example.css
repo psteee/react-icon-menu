@@ -1,0 +1,26 @@
+.icon-menu {
+  z-index: 2;
+  position: fixed;
+  top: 30px;
+  width: 250px;
+  color: white;
+  border: 1px solid darkslategray;
+}
+.icon-menu .item {
+  color: white;
+  text-decoration: none;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.icon-menu .item i {
+  padding-left: 5px;
+  padding-right: 5px;
+}
+.right.icon-menu {
+  right: 0;
+  color: lawngreen;
+}
+.toggler {
+  margin-top: 10px;
+  font-size: small;
+}
